@@ -1,6 +1,5 @@
 # 👋 Привет, я Ксения!
 **Java Backend Developer (Junior+)** | 📍 Тюмень 
-📧 [veli4koksenia@yandex.ru](mailto:veli4koksenia@yandex.ru) | ✈️ Telegram: [@kseniia10](https://t.me/kseniia10)  
 🎓 Выпускница ТюмГУ (Прикладная информатика, 2026) & Яндекс Практикум (2025)
 
 ---
